@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Conteo_Planet.unity
+    guid: 049da5adba2c4c64babdabaf74a6ccd1
+  - enabled: 1
+    path: Assets/Scenes/Activity_1.unity
+    guid: 1aa07c8cdd425204885d4e67de6660d6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
